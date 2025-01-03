@@ -6,4 +6,4 @@
 
 - Press `a` and `d` to speed up/down the gratings
 
-- ![Gratings Demo](demo.mov)
+- ![Gratings Demo](gratings.mov)
