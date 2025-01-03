@@ -1,0 +1,1 @@
+some sketches to test [processing](https://processing.org/) for generating graphical outputs
