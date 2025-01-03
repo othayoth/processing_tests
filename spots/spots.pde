@@ -44,7 +44,7 @@ void drawSpots() {
 void keyPressed() {
   // Toggle the state of the spots when keys 1-9 are pressed
   if (key >= '1' && key <= '9') {
-    int spotIndex = key; // Map '1'-'9' to indices 0-8
+    int spotIndex = key-'1'; // Map '1'-'9' to indices 0-8
     spotStates[spotIndex] = !spotStates[spotIndex]; // Toggle state
   }
 }
